@@ -1,0 +1,16 @@
+//*[@id="sign-in-button"]
+//*[@id="defaultLoginFormUsername"]
+//*[@id="defaultLoginFormPassword"]
+/html/body/app-root/div[2]/app-login/div/div/form/p[2]/span
+LogOut
+//*[@id="nav-link-logout"]
+proifilexpath
+/html/body/app-root/div[2]/app-profile/div/div[1]/app-profile-section/div/div/div[2]/div/div[1]/h2
+/html/body/app-root/div[2]/app-profile/div/div[2]/app-profile-posts-section/div/div[1]/div/label[1]
+/html/body/app-root/div[2]/app-profile/div/div[2]/app-profile-posts-section/div/div[1]/div/label[2]
+Skillo Logo
+//*[@id="homeIcon"]
+Search Filed
+//*[@id="search-bar"]
+New Post
+//*[@id="nav-link-new-post"]
